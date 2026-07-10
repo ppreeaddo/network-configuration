@@ -2,7 +2,7 @@
 
 A simulated enterprise network environment built to demonstrate LAN topology design, hardware configuration, and infrastructure troubleshooting methodologies.
 
-**You can view screenshots of my project by clicking on Command Outputs.png and Network topology.png**
+**Note: You can view screenshots of my project by clicking on Command Outputs.png and Network topology.png.**
 
 ## Technical Environment
 
