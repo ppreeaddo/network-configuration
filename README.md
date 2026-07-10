@@ -19,7 +19,7 @@ A simulated enterprise network environment built to demonstrate LAN topology des
 - **Diagnostics & Monitoring:** Utilized advanced administrative commands to audit and verify network states:
   - `show ip route` — Analyzed routing tables and static/dynamic paths.
   - `show interfaces` — Monitored interface operational status and error rates.
-  - `show arp` — Verified IP-to-MAC address resolutions across segments.
+  - `show arp` — Verified IP to MAC address resolutions across segments.
   - `show flash` — Inspected system memory and IOS image integrity.
 
 ---
